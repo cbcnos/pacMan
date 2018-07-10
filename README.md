@@ -14,3 +14,7 @@ Escolha uma tarefa disponível na aba [Projects](https://github.com/cbcnos/pacma
 
 ## Como executar
 Após instalar a [NetBeans IDE 8.2](https://netbeans.org/downloads), basta clonar o repositório, abrir o projeto no Netbeans e executar o código (F6).
+
+
+## Licença
+Este projeto utiliza a licença [MIT](https://github.com/cbcnos/pacman-multiplayer/blob/master/LICENSE).
